@@ -1,10 +1,7 @@
 ---
-layout: archive
+title: "In Undergraduate"
 permalink: /research/
-# Note: Keep your title or leave it blank; the plugin will handle it either way
 ---
-
-# In Undergraduate
 
 ## US-ATLAS ATC 2026, Brookhaven National Laboratory
 
