@@ -11,7 +11,7 @@ redirect_from:
   <img src="images/me_big.jpg" width="50%">
 </p>
 
-I'm an undergraduate at the University of Arizona studying Physics (with Honors) and Data Science, with a minor in Computer Science and Mathematics. 
+I'm an undergraduate at the University of Arizona studying Physics and Data Science, with a minor in Computer Science and Mathematics. Expected graduation year is 2028.
 
 I'm from Guwahati, a city in India. Being born to two physicists, I've had the priviledge of having resources as well as an intrinsic curiosity to understad why things happen the way they do. Which is why I'm studying physics. Even my twin brother is studying physics at the UA (I guess my parents really did influence us. Not my sister 😒 however : she's a doctor)
 
