@@ -23,7 +23,7 @@ repository               : "D-man165/D-man165.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/Images/profile.jpg"
+  avatar           : "/images/profile.jpg"
   name             : "Diptiman Bora"
   pronouns         : # example: "she/her"  
   bio              : ""
