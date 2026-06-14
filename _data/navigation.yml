@@ -15,7 +15,7 @@ main:
   #   url: /talks/    
 
   - title: "Research"
-    url: /research/research.md
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/  
