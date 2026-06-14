@@ -8,12 +8,12 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="images/profile.jpg" width="100%">
+  <img src="images/profile.jpg" width="70%">
 </p>
 
 I'm an undergraduate at the University of Arizona studying Physics (with Honors) and Data Science, with a minor in Computer Science and Mathematics. 
 
-I'm from Guwahati, a city in India. Being born to two physicists, I've had the priviledge of having resources as well as an intrinsic curiosity to understad why things happen the way they do. Which is why I'm studying physics. Even my twin brother is studying physics at the UA (I guess my parents really did influence us. Not my sister 🤢 however : she's a doctor)
+I'm from Guwahati, a city in India. Being born to two physicists, I've had the priviledge of having resources as well as an intrinsic curiosity to understad why things happen the way they do. Which is why I'm studying physics. Even my twin brother is studying physics at the UA (I guess my parents really did influence us. Not my sister 😒 however : she's a doctor)
 
 # My research
 
