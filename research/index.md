@@ -19,4 +19,4 @@ I joined Dr. Johns's group in my freshman year and since then I've developed Pyt
 
 ## Dr. B.N. Goswami Lab, Department of Physics, Cotton University
 
-During my grade 11 and 12th, I worked with Dr. B.N. Goswami, a leading Indian climatologist, analyzing increasing heat stress over Northeast India by extracting long-term patterns from climate data spanning over 80 years. We're currently working our way towards a paper.
+During grade 11 and 12th, I worked with Dr. B.N. Goswami, a leading Indian climatologist, analyzing increasing heat stress over Northeast India by extracting long-term patterns from climate data spanning over 80 years. We're currently working our way towards a paper.

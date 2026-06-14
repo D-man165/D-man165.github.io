@@ -1,6 +1,6 @@
 ---
-title: "Teaching 33"
-permalink: /teaching/
+title: "Teaching"
+permalink: /teach/
 ---
 
 ## Content Tutor for THINK TANK (Physics), 2026-27
