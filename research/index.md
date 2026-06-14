@@ -9,7 +9,7 @@ Being awarded the Atlas Center Award, I'm currently at BNL working on the ATLAS 
 
 ## Dr. Nikolay Golubev Lab, Department of Physics, University of Arizona
 
-Since joining October 2025, I'm working on applying theoretical frameworks in molecular and ultrafast dynamics, including Born–Oppenheimer approximation and the exact factorization of the molecular wavefunction, toward future modeling work. This is completely analytical, with some approximations, which makes it extremely challenging.
+Since joining on October 2025, I'm working on applying theoretical frameworks in molecular and ultrafast dynamics, including Born–Oppenheimer approximation and the exact factorization of the molecular wavefunction, toward future modeling work. This is completely analytical, with some approximations, which makes it extremely challenging.
 
 ## Dr. Kenneth Johns Lab, ATLAS Collaboration, Department of Physics, University of Arizona
 
