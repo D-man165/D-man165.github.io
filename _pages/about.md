@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="images/me_big.jpg" width="70%">
+  <img src="images/me_big.jpg" width="50%">
 </p>
 
 I'm an undergraduate at the University of Arizona studying Physics (with Honors) and Data Science, with a minor in Computer Science and Mathematics. 
