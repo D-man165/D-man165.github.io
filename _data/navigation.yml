@@ -22,12 +22,12 @@ main:
 
   - title: "Curriculum Vitae"
     url: /files/CV.pdf  
+
+  - title: "Honors"
+    url: /honors/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/
