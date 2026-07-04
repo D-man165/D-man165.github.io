@@ -11,7 +11,7 @@ redirect_from:
 
 I'm an undergraduate at the University of Arizona studying Physics and Data Science, with a minor in Computer Science and Mathematics. Expected graduation year is 2028.
 
-I'm from Guwahati, a city in India. Being born to two physicists, I've had the priviledge of having resources as well as an intrinsic curiosity to understand why things happen the way they do. Which is why I'm studying physics. Even my twin brother is studying physics at the UA (I guess my parents really did influence us. Not my sister 😒 however : she's a doctor)
+I'm from Guwahati, a city in India. Being born to two physicists, I've had the priviledge of having resources as well as an intrinsic curiosity to understand why things happen the way they do. Which is why I'm studying physics. Even my twin brother is studying physics at the UA (I guess my parents really did influence us)
 
 # My research
 
@@ -19,7 +19,7 @@ My research spans multiple domains: I've recently started working on molecular a
 
 # Me as a human
 
-I enjoy playing my classical guitar. The nylon strings emanate a warm melodic voice, which edges out other guitar-playing styles, in my opinion. My favourite pieces are Nocturne in C-sharp minor by Chopin, and Lacrimosa from Requiem in D minor (K. 626) by Mozart, which is a work in progress. 
+I enjoy playing my classical guitar. The nylon strings emanate a warm melodic voice, which edges out other guitar-playing styles, in my opinion. My favourite pieces are Nocturne in C-sharp minor by Chopin, Beethoven Symphony no. 5 in A minor, Op. 92 : II. Allegretto and Lacrimosa from Requiem in D minor (K. 626) by Mozart, which is a work in progress. 
 
 I also love playing football, soccer. I've been more of a defensive-goalie player since my childhood. But playing with the Physics-Astro Football Club in UA, I've developed other aspects of my play, which are ...... not terrible. Contact the club if you wanna play 😃
 
