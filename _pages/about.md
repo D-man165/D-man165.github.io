@@ -15,11 +15,11 @@ I'm from Guwahati, a city in India. Being born to two physicists, I've had the p
 
 # My research
 
-My research spans multiple domains: I've recently started working on molecular and ultrafast dynamics with Dr. Nikolay Golubev. Since my freshman year, I've continued to develop machine learning algorithms to identify Long Lived Particles for the ATLAS experiment at CERN with Dr. Kenneth Johns. I have previously contributed to climate science research on humidity and heat stress over South Asia, as a high school student.
+My research spans multiple domains: During summer of 2026, I did interesting stuff on ITk at Brookhaven National Lab. I've recently started working on molecular and ultrafast dynamics with Dr. Nikolay Golubev. Since my freshman year, I've continued to develop machine learning algorithms to identify Long Lived Particles for the ATLAS experiment at CERN with Dr. Kenneth Johns. I have previously contributed to climate science research on humidity and heat stress over South Asia, as a high school student.
 
 # Me as a human
 
-I enjoy playing my classical guitar. The nylon strings emanate a warm melodic voice, which edges out other guitar-playing styles, in my opinion. My favourite pieces are Nocturne in C-sharp minor by Chopin, Beethoven Symphony no. 5 in A minor, Op. 92 : II. Allegretto and Lacrimosa from Requiem in D minor (K. 626) by Mozart, which is a work in progress. 
+I enjoy playing my classical guitar. The nylon strings emanate a warm melodic voice, which edges out other guitar-playing styles, in my opinion. My favourite pieces are Nocturne in C-sharp minor by Chopin, Beethoven Symphony no. 5 in A minor, Op. 92 : II. Allegretto and Lacrimosa from Requiem in D minor (K. 626) by Mozart, which is a work in progress. I love listening to Rach but can't play it yet :(
 
 I also love playing football, soccer. I've been more of a defensive-goalie player since my childhood. But playing with the Physics-Astro Football Club in UA, I've developed other aspects of my play, which are ...... not terrible. Contact the club if you wanna play 😃
 
