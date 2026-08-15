@@ -5,7 +5,11 @@ permalink: /research/
 
 ## US-ATLAS ATC 2026, Brookhaven National Laboratory
 
-Being awarded the Atlas Center Award, I'm currently at BNL working on the ATLAS Inner Tracker (ITk) project. ITk is part of a major upgrade in LS3, which replaces the Inner Detector. Specifically, I'm conducting quality control tests on Strip Barrel modules sourced from the Santa Cruz Institute for Particle Physics (SCIPP), Lawrence Berkeley National Laboratory (LBNL), and BNL itself.
+Being awarded the Atlas Center Award, I worked on the ATLAS Inner Tracker (ITk) project. ITk is part of a major upgrade in LS3, which replaces the Inner Detector. I conducted quality control tests on Strip Barrel modules sourced from the Santa Cruz Institute for Particle Physics (SCIPP), Lawrence Berkeley National Laboratory (LBNL), and BNL itself.
+
+I also help maintained the "famous" BNL Uploader, a software built exclusively for modules, sensors, staves etc. at BNL. I helped add functionality and fix bugs.
+
+My capstone project was designing a coolant leakage system for the stave enclosure. Previously, several staves have been damaged by Novec 7100 leakage inside the box. I integrated bme680 gas sensor with a Raspberry Pi using SPI to measure gas resistance, as the coolant is highly volatile. The pi throws the data onto Prometheus which redirects it to a Grafana dashboard. The system was able to detect changes in airflow, cases when the stave box was opened, and a simulated leak effectively. 
 
 ## Dr. Nikolay Golubev Lab, Department of Physics, University of Arizona
 
